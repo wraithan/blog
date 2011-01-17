@@ -4,3 +4,5 @@ title: Setting up Jekyll
 ---
 
 I decided I should start blogging again, I commonly come up against things that I feel like I should share my solutions with the world in some way, and blogging seems to be the way most folks do that now a days.
+
+So by copying "git ready":http://gitready.com I am making my own git/jekyll based blog.
