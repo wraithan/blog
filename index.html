@@ -2,5 +2,6 @@
 layout: default
 title: index
 ---
+{% assign first_post = site.posts.first %}
 <h2><a href="{{ first_post.url }}">Newest post: {{ first_post.title }}</a></h2>
 {{ first_post.content }}
